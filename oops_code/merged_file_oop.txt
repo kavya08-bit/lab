@@ -1,0 +1,4 @@
+Record A from File 1
+Record B from File 1
+Record C from File 2
+Record D from File 2

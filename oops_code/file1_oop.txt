@@ -1,0 +1,2 @@
+Record A from File 1
+Record B from File 1
